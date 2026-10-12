@@ -1,4 +1,4 @@
-# 📚 AI Research & Document Intelligence Assistant
+# 🤖 AI Research & Document Intelligence Assistant
 
 An AI-powered document question-answering system built using **Retrieval-Augmented Generation (RAG), LangChain, LangGraph, FastAPI, and Streamlit**. It enables users to upload documents and receive context-grounded answers with relevance checking, grounding verification, and source references.
 
