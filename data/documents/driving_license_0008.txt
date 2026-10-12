@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jonathan White
+License: DL175745391
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL175745391",
+  "full_name": "Jonathan White",
+  "date_of_birth": "2004-04-10",
+  "class": "A",
+  "issue_date": "2021-01-07",
+  "expiry_date": "2026-01-07",
+  "address": "PSC 4893, Box 2528, APO AP 00575",
+  "sample_id": "driving_license_0008"
+}

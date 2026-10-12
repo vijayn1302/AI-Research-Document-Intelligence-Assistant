@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tanya Campos
+License: DL732107797
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL732107797",
+  "full_name": "Tanya Campos",
+  "date_of_birth": "2005-07-18",
+  "class": "C",
+  "issue_date": "2021-03-11",
+  "expiry_date": "2026-03-11",
+  "address": "5787 John Circles Suite 098, New Jeffrey, CA 93279",
+  "sample_id": "driving_license_0010"
+}

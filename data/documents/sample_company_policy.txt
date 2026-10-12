@@ -1,0 +1,16 @@
+Sample Company Policy
+
+Purpose
+This document demonstrates the AI Document Assistant.
+
+Remote Work
+Employees may work remotely up to three days per week with manager approval.
+
+Security
+Employees must use multi-factor authentication for company systems and must not share passwords.
+
+Leave
+Employees should submit planned leave requests at least five working days in advance.
+
+Support
+Technical issues should be reported through the internal support portal.

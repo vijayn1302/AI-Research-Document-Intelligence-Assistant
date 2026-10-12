@@ -1,0 +1,16 @@
+Synthetic Driving License
+Katherine Rodriguez
+License: DL811653542
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL811653542",
+  "full_name": "Katherine Rodriguez",
+  "date_of_birth": "1961-01-11",
+  "class": "C",
+  "issue_date": "2021-04-14",
+  "expiry_date": "2026-04-14",
+  "address": "03911 Cabrera Trace Apt. 278, West Allison, PA 55962",
+  "sample_id": "driving_license_0009"
+}

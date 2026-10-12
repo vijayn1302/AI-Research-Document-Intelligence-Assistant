@@ -1,0 +1,16 @@
+Synthetic Driving License
+Rebecca Henderson
+License: DL840957248
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL840957248",
+  "full_name": "Rebecca Henderson",
+  "date_of_birth": "2001-03-01",
+  "class": "C",
+  "issue_date": "2021-08-08",
+  "expiry_date": "2026-08-08",
+  "address": "784 Erin Crescent Suite 514, Mooretown, VA 94830",
+  "sample_id": "driving_license_0007"
+}

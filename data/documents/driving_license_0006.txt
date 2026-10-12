@@ -1,0 +1,16 @@
+Synthetic Driving License
+Deborah Richards
+License: DL524296237
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL524296237",
+  "full_name": "Deborah Richards",
+  "date_of_birth": "1965-01-06",
+  "class": "A",
+  "issue_date": "2022-07-27",
+  "expiry_date": "2027-07-27",
+  "address": "PSC 6532, Box 8710, APO AE 20534",
+  "sample_id": "driving_license_0006"
+}
