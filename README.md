@@ -50,7 +50,7 @@ AI-Research-&-Document-Intelligence-Assistant/
 │   ├── documents/
 │   └── chroma/
 ├── evaluation/
-│   └── eval_dataset.jsonl
+│   └── dataset.jsonl
 ├── scripts/
 ├── .env
 ├── .gitignore
@@ -63,8 +63,8 @@ AI-Research-&-Document-Intelligence-Assistant/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/vijayn1302/AI-Research-&-Document-Intelligence-Assistant.git
-cd AI-Document-Assistant
+git clone https://github.com/vijayn1302/AI-Research-Document-Intelligence-Assistant.git
+cd AI-Research-Document-Intelligence-Assistant
 ```
 
 **2. Create and activate a virtual environment**
